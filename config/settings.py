@@ -13,7 +13,7 @@ SECRET_KEY = '7+f^pht2xc^$^c@uzob&4y0iq8(z7(*$xg#xl3d4*tg2c27i&@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['dj-libraryapi.herokuapp.com']
 
 
 # Application definition
